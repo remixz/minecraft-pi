@@ -3,7 +3,7 @@
   "name": "minecraft-pi",
   "description": "A Node.js API for Minecraft: Pi Edition.",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/remixz/minecraft-pi",
   "repository": {
     "type": "git",
