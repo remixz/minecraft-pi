@@ -15,7 +15,7 @@ var client, receivedData;
 
 async.auto({
 	connect: function (callback) {
-		client = new Minecraft('192.168.1.89', 4711, callback); // To test for yourself, please edit this to point to your local pi server.
+		client = new Minecraft('192.168.1.89', callback); // To test for yourself, please edit this to point to your local pi server.
 	},
 
 	data: ['connect', function (callback) {
