@@ -1,13 +1,15 @@
-# minecraft-pi
+## ![minecraft-pi](https://raw.github.com/remixz/minecraft-pi/master/minecraft-pi.png)
 
 *Work in progress.*
+
+minecraft-pi allows you to control a [Minecraft: Pi Edition](http://pi.minecraft.net/) server from Node.js. This is intended as a lower-level module, and is meant to be extended on for bigger projects. However, the commands are simple enough to play with as-is.
 
 *TODO:*
 
 * Write tests
 * Better documentation
 
-## Usage
+### Usage
 
 ```js
 var Minecraft = require('minecraft-pi');
