@@ -3,7 +3,7 @@
   "name": "minecraft-pi",
   "description": "A Node.js API for Minecraft: Pi Edition.",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "homepage": "https://github.com/remixz/minecraft-pi",
   "repository": {
     "type": "git",
@@ -14,12 +14,13 @@
   },
   "main": "./lib/minecraft.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap ./test/*.js"
   },
   "dependencies": {
   },
   "devDependencies": {
-    "tap": "~0.4.0"
+    "tap": "~0.4.0",
+    "async": "~0.2.5"
   },
   "optionalDependencies": {},
   "engines": {

@@ -6,7 +6,6 @@ minecraft-pi allows you to control a [Minecraft: Pi Edition](http://pi.minecraft
 
 *TODO:*
 
-* Write tests
 * Better documentation
 
 ### Usage
