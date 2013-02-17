@@ -4,7 +4,6 @@
 
 *TODO:*
 
-* Assign all blocks in blocks.json
 * Write tests
 
 ## Usage
