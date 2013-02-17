@@ -20,3 +20,5 @@ var client = new Minecraft('localhost', 4711, function() {
 docco lib/minecraft.js
 open docs/minecraft.html
 ```
+
+You may also view pre-generated documentation [here](http://zachbruggeman.me/minecraft-pi/).
